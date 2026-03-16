@@ -7,6 +7,7 @@ I am open to collaborating with fellow student developers with any skillset and 
 I am also currently pursuing research into Artificial Intelligence and its impact on the climate as a possible thesis proposal.
 
 As of Spring 2026, here is my relevant coursework:
+
 ◦Operating Systems, Software Design, Assembly Language Programming, Data
 Structures and Algorithms, Instructional Technology, The Unix Environment, The .NET Environment
 
