@@ -1,6 +1,6 @@
 ## hi everyone!
 
-I'm a Computer Science student at Ramapo College of New Jersey (B.S. 4+1, expected 2027) with a focus on development and automation. Much of my project work has come from identifying inefficient, manual processes and building tools to address them.
+I'm a Computer Science student at Ramapo College of New Jersey (B.S. 4+1, expected December 2026) with a focus on development and automation. Much of my project work has come from identifying inefficient, manual processes and building tools to address them.
 
 While supporting IT at a high school, I noticed staff had no reliable way to track incoming technical requests, so I developed a Google Apps Script tool that automatically organized emails by urgency and status. I later built a QR code-based reporting system that allowed teachers to submit classroom technology issues directly, without email. Both tools improved response times and removed the need for a paid ticketing platform.
  
